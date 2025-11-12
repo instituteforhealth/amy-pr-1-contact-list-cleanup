@@ -1,0 +1,433 @@
+EMPLOYEE_NAME,FIRST_NAME,LAST_NAME,NETID,RCP_ID,DEPT_CODE,DEPT_DESCR,TITLE_DESCR,FTE,UNION AFFILIATION,EMAIL_ADDR
+"Abita,Reine A",Reine,Abita,RAA202,918538,ZG0038,UCHC-Edna Mahan Corr-Ancillary,UCHC TECHNICIAN I,0.5,Teamsters 97,reine.abita@rutgers.edu
+"Abrams,Mitchell",Mitchell,Abrams,ABRAMSMI,624473,ZG0001,UCHC,MGR CLINICAL SERVICES-TESTING,1,MPSC - Legacy UMD,mitch.abrams@rutgers.edu
+"Accetta,Brenda",Brenda,Accetta,BA513,1092854,ZT0901,UBHC-OP Edison,SECRETARY II,1,Teamsters 97,brenda.accetta@rutgers.edu
+"Adams,Kathryn Carol-Marie",Kathryn,Adams,BURTONKC,357047,ZT2327,UBHC-Institute CSOC,PROG DIR,1,MPSC - Legacy UMD,kathryn.adams@rutgers.edu
+"Aguilar,Fatima",Fatima,Aguilar,FA277,707439,ZT0988,UBHC-Military Services,PROG DEV SPEC II,1,HPAE 5094,fa277@rutgers.edu
+"Ahmed,Afifa Sami",Afifa,Ahmed,AHMEDA4,624973,ZG0032,UCHC-Garden St Youth Phys,SECRETARY III,1,Teamsters 97,ahmeda4@rutgers.edu
+"Akinsanmi,Adumola Grace",Adumola,Akinsanmi,ADEDUJAF,624694,ZG0035,UCHC-Northern St Prison Phys,MEDICAL RECORDS TECH,1,Teamsters 97,adedujaf@rutgers.edu
+"Albarran,Cheryl Y",Cheryl,Albarran,ALBARRCY,625211,ZG0038,UCHC-Edna Mahan Corr-Ancillary,REGIONAL SCHEDULER,1,Teamsters 97,cheryl.albarran@rutgers.edu
+"Aleman,Francesca Miriam",Francesca,Aleman,ALEMANFM,625276,ZT2327,UBHC-Institute CSOC,SECRETARY I,1,Teamsters 97,alemanfm@rutgers.edu
+"Ali,Carol A.",Carol,Ali,ALICA,625366,ZG0004,UCHC-Garden St Youth Medical,UCHC DATA CONTROL CLERK I,1,CWA 1040,alica@rutgers.edu
+"Andemicael,Miriam Y",Miriam,Andemicael,MA1268,752614,ZT0705,UBHC-Acute Psych Services,SR RECEPT SWITCHBOARD OPER,1,Teamsters 97,ma1268@rutgers.edu
+"Anderson,Danielle M",Danielle,Anderson,ANDERSDA,625917,ZT0950,UBHC-Mobile Response,SECRETARY II,1,Teamsters 97,danielle.anderson@rutgers.edu
+"Andino,Toni J-lynn",Toni,Andino,TJA95,1126468,ZG0040,UCHC-Bayside St Prsn-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,toni.andino@rutgers.edu
+"Anguloori,Shyamsunder",Shyamsunder,Anguloori,ANGULOSH,626095,ZG0035,UCHC-Northern St Prison Phys,MEDICATION AIDE,1,Teamsters 97,angulosh@rutgers.edu
+"Arana,Eleanor",Eleanor,Arana,EMA128,862730,ZT0961,UBHC-Outpatient Services,SECRETARY II,1,Teamsters 97 <20 HRS Eiligible,eleanor.arana@rutgers.edu
+"Araya Fernandez,Rowena",Rowena,Araya Fernandez,RA1003,1024627,ZG0032,UCHC-Garden St Youth Phys,HEALTH RECORDS CLERK,1,Teamsters 97,ra1003@rutgers.edu
+"Arias,Leidy Lissette",Leidy,Arias,LA583,1030679,ZU0705,UBHC-Emergency Screen Newark,SECRETARY III,1,Teamsters 97,leidy.arias@rutgers.edu
+"Arias-Made,Ana Billet",Ana,Arias-Made,AA2561,995912,ZU0712,UBHC-Healh IM Newark,SR MEDICAL RECORDS CLERK,1,Teamsters 97,ana.ariasmade@rutgers.edu
+"Arvelo,Gabrielle",Gabrielle,Arvelo,GA355,857495,ZG0030,UCHC-Adult Treatment Ctr Phys,REGIONAL SCHEDULER,1,Teamsters 97,ga355@rutgers.edu
+"Austin,Cortney Marie",Cortney,Austin,CMA213,683021,ZG0040,UCHC-Bayside St Prsn-Ancillary,UCHC TECHNICIAN I,0.5,Teamsters 97,cortney.austin@rutgers.edu
+"Austin,Jennifer J.",Jennifer,Austin,AUSTINJL,626771,ZG0040,UCHC-Bayside St Prsn-Ancillary,SECRETARY III,1,Teamsters 97,austinjl@ubhc.rutgers.edu
+"Avisado,Pura E.",Pura,Avisado,AVISADOR,626818,ZT0601,UBHC-Acute-Nursing Admin,PRIN MGMNT ASST CONFIDTL,1,MPSC - Legacy UMD,orange.avisado@rutgers.edu
+"Bailey,Danielle Blanch",Danielle,Bailey,DBB13,189485,ZG0042,UCHC-South Woods Psn-Ancillary,REGIONAL OPERATIONS MGR - UCHC,1,MPSC - Legacy UMD,danielle.bailey@rutgers.edu
+"Bailey,Heather R",Heather,Bailey,HRB46,974343,ZG0042,UCHC-South Woods Psn-Ancillary,HEALTH RECORDS CLERK,1,Teamsters 97,heather.bailey@rutgers.edu
+"Ballinghoff,Karen Marie",Karen,Ballinghoff,KMB536,907949,ZT0930,UBHC-PH Adult Cherry Hill,SR CLERK DRIVER,1,Teamsters 97,kmb536@rutgers.edu
+"Barakchian,Seyedehzahra",Seyedehzahra,Barakchian,SB2566,1100129,ZT0717,UBHC-Institute,POST DOC FELLOW,2,Post Docs - Regular Salaried,zahra.barakchian@rutgers.edu
+"Batista,Heidi",Heidi,Batista,BATISTHE,627919,ZU0705,UBHC-Emergency Screen Newark,SECRETARY III,1,Teamsters 97,heidi.batista@rutgers.edu
+"Battle,Tawana",Tawana,Battle,BATTLETA,627945,ZT0930,UBHC-PH Adult Cherry Hill,OFFICE MGR,1,CWA 1031,battleta@rutgers.edu
+"Bawagan,Genalin L",Genalin,Bawagan,GLB59,785033,ZT0713,UBHC-Acute Children,FINANCIAL ANALYST,1,HPAE 5094,glb59@rutgers.edu
+"Belbachir,Kerianne",Kerianne,Belbachir,KB1126,967362,ZT1671,UBHC-Quality Improvement,DIR QUALITY IMPROVEMENT,1,Executives and Directors,kerianne.belbachir@rutgers.edu
+"Belcher,Virginia A.",Virginia,Belcher,BELCHEVA,628234,ZT0931,UBHC-OP New Brunswick,SUPVG PROG ASST I,1,CWA 1031,virginia.belcher@rutgers.edu
+"Benjamin,Monique J",Monique,Benjamin,BENJAMM1,628401,ZG0029,UCHC-Administration,UCHC QI COORDINATOR,1,CWA 1040,benjamm1@rutgers.edu
+"Bennington,David M.",David,Bennington,BENNINDM,628438,ZG0002,UCHC - Adult Diag & Trtmnt Ctr,UCHC DATA CONTROL CLERK I,1,CWA 1040,bennindm@rutgers.edu
+"Berger,Michael S.",Michael,Berger,BERGERMS,628527,ZT9007,UBHC-Institute BRTI,SR TRAINING & CONSULT SPEC,1,HPAE 5094,bergerms@ubhc.rutgers.edu
+"Bethea,Dominque Nicole",Dominque,Bethea,DNB66,856320,ZT0930,UBHC-PH Adult Cherry Hill,SECRETARY II,1,Teamsters 97,dnb66@rutgers.edu
+"Bhatia,Renuka S",Renuka,Bhatia,RSB167,746683,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,rsb167@rutgers.edu
+"Boehm,Samantha Sue",Samantha,Boehm,PEZZELSS,663065,ZG0042,UCHC-South Woods Psn-Ancillary,REGIONAL SCHEDULER,1,Teamsters 97,pezzelss@rutgers.edu
+"Bohan,Mary-Catherine",Mary-Catherine,Bohan,MB1644,788350,ZT0600,UBHC-Administration,UNIT VICE PRESIDENT UBHC,1,Executives and Directors,mc.bohan@rutgers.edu
+"Bonner,Karen Lynn",Karen Lynn,Bonner,KB1215,1026206,ZT0923,UBHC-Community-Based Services,SECRETARY II,1,Teamsters 97,kb1215@rutgers.edu
+"Boone,Carmen J",Carmen,Boone,BOONECJ,629554,ZT0712,UBHC-Healh IM Pisc,MEDICAL RECORDS TECH,1,Teamsters 97,boonecj@ubhc.rutgers.edu
+"Boswell,Megan",Megan,Boswell,BOSWELMJ,629665,ZT0955,UBHC-Emergency Screening Pisc,OFFICE MGR,1,CWA 1031,boswelmj@ubhc.rutgers.edu
+"Boughton Wolfe,Delores",Delores,Boughton Wolfe,BOUGHTDE,629704,ZG0025,UCHC-Northern St Prison Phys,UCHC DATA CONTROL CLERK I,1,CWA 1040,boughtde@rutgers.edu
+"Boykin,Selina F",Selina,Boykin,BOYKINSF,629812,ZT2327,UBHC-Institute CSOC,SUPVG PROG ASST I,1,CWA 1031,selina.boykin@rutgers.edu
+"Brogan,Maureen A",Maureen,Brogan,MAB657,692001,ZT9007,UBHC-Institute BRTI,PROG MGR,1,MPSC - Legacy UMD,maureen.brogan@rutgers.edu
+"Brown,Janet",Janet,Brown,JB1724,871314,ZG0038,UCHC-Edna Mahan Corr-Ancillary,UCHC TECHNICIAN II,1,Teamsters 97,jb1724@rutgers.edu
+"Brown,Myrtis R.",Myrtis,Brown,BROWNMY,630475,ZT0729,UBHC-Environment of Care,PROG SUPPORT SPEC,1,HPAE 5094,myrtis.r.brown@rutgers.edu
+"Brown,Patricia",Patricia,Brown,BROWNPA,288841,ZU0705,UBHC-Emergency Screen Newark,OFFICE MGR,1,CWA 1031,brownpa@ubhc.rutgers.edu
+"Brown,Soleil T",Soleil,Brown,SB1347,691780,ZG0033,UCHC-East Jersey St Prisn Phys,UCHC TECHNICIAN I,1,Teamsters 97,sb1347@rutgers.edu
+"Bryan,Aneshia Latoya",Aneshia,Bryan,ALB340,758266,ZT0961,UBHC-Outpatient Services,SECRETARY II,1,Teamsters 97,alb340@rutgers.edu
+"Burg,Ilene T",Ilene,Burg,ITB7,581348,ZT0600,UBHC-Administration,BUSINESS COOR,1,MPSC - Legacy UMD,itb7@ubhc.rutgers.edu
+"Burke,Leslie",Leslie,Burke,WIRSINLE,678219,ZG0028,UCHC-South Woods Prison Phys,UCHC DATA CONTROL CLERK I,1,CWA 1040,wirsinle@rutgers.edu
+"Burns,Laura",Laura,Burns,BURNSL1,405531,ZT9007,UBHC-Institute BRTI,PROG COOR,1,CWA 1031,laura.burns@ubhc.rutgers.edu
+"Burrowes-Hinds,Paula",Paula,Burrowes-Hinds,HINDSPA,645434,ZT0725,UBHC-OP Registration,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,hindspa@rutgers.edu
+"Bustamante,Maria Eugenia",Maria,Bustamante,MEB412,1033796,ZG0030,UCHC-Adult Treatment Ctr Phys,MEDICAL RECORDS TECH,1,Teamsters 97,maria.bustamante@rutgers.edu
+"Camana,Daniel S",Daniel,Camana,CAMANADS,631338,ZT0938,UBHC-PH Adult Monmouth Junct,TRANSPORTATION DISPATCHER,1,Teamsters 97,camanads@rutgers.edu
+"Camarillo,Rita",Rita,Camarillo,RITAPOET,49261,ZT2327,UBHC-Institute CSOC,TRAINING&CONSULTATION SPEC,1,HPAE 5094,r.camarillo@rutgers.edu
+"Caravello,Jill",Jill,Caravello,CARAVEJL,631653,ZT0988,UBHC-Military Services,SR MGMT ASST,1,CWA 1031,jill.caravello@rutgers.edu
+"Carfora,Gori L",Gori,Carfora,CARFORGL,631717,ZT0704,UBHC-Accounting,HD CASHIER II,1,Teamsters 97,carforgl@rutgers.edu
+"Carpenter,Lakisha",Lakisha,Carpenter,CARPENIN,631807,ZT0923,UBHC-Community-Based Services,SECRETARY II,1,Teamsters 97,carpenin@ubhc.rutgers.edu
+"Carpenter,Shirley",Shirley,Carpenter,CARPENSH,631809,ZT9007,UBHC-Institute BRTI,SECRETARY II,1,Teamsters 97,shirley.carpenter@rutgers.edu
+"Castanon,Mayra Ivette",Mayra,Castanon,CASTANMI,632041,ZU0922,UBHC-OP Newark,SR SCHED/PAT LIAISON,1,Teamsters 97,castanmi@rutgers.edu
+"Castellano,Cherie A",Cherie,Castellano,CASTELCH,632051,ZT0911,UBHC-Cop2Cop,PROG ADMIN (UBHC),1,MPSC - Legacy UMD,castelch@rutgers.edu
+"Castillo,Gisauri",Gisauri,Castillo,GC867,1171257,ZT0930,UBHC-PH Adult Cherry Hill,SECRETARY II,1,Teamsters 97,gisauri.castillo@rutgers.edu
+"Castro,Jocez",Jocez,Castro,JC2591,889599,ZG0007,UCHC-Northern St Prison Med,SECRETARY III,1,Teamsters 97,jocez.castro@rutgers.edu
+"Chadwick,Randall C.",Randall,Chadwick,CHADWIRA,632325,ZT9007,UBHC-Institute BRTI,PROG MGR,1,MPSC - Legacy UMD,randy.chadwick@rutgers.edu
+"Chapman,Lynn Ann",Lynn,Chapman,LAC430,851835,ZT0923,UBHC-Community-Based Services,SECRETARY II,1,Teamsters 97,lynn.chapman@rutgers.edu
+"Chaszar,Lisa Ann",Lisa,Chaszar,LAC393,685355,ZG0029,UCHC-Administration,UCHC SECRETARY I,1,CWA 1040,lac393@rutgers.edu
+"Chatman,Tameka Nicole",Tameka,Chatman,MOTLEYTN,658228,ZT9007,UBHC-Institute BRTI,PROG COOR,1,CWA 1031,tameka.chatman@rutgers.edu
+"Chen,Van",Van,Chen,VANCHEN,502833,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,vanchen@rutgers.edu
+"Cheng,Chia-Cherng",Chia-Cherng,Cheng,CHENGCC,165830,ZT0607,UBHC-Information Services,PROGRAMMER ANALYST II,1,HPAE 5094,chengcc@ubhc.rutgers.edu
+"Chin,David H",David,Chin,CHINDH,632996,ZT0726,UBHC - HIM - ACCR & Standards,"DIR, ACCREDITATION & DOC",1,Executives and Directors,david.chin@rutgers.edu
+"Ciancio,Tracie Lynn",Tracie,Ciancio,CIANCITL,633385,ZT0950,UBHC-Mobile Response,SUPVG PROG ASST I,1,CWA 1031,tracie.ciancio@rutgers.edu
+"Ciancitto,James J.",James,Ciancitto,CIANCIJA,64334,ZT0703,UBHC - Access Center,SYSTEMS ADMINISTRATOR III,1,HPAE 5094,jim.ciancitto@rutgers.edu
+"Ciantar,Matthew F",Matthew,Ciantar,MFC108,801677,ZT0615,UBHC-CMO,BUSINESS COOR,1,MPSC - Legacy UMD,matthew.ciantar@gsbs.rutgers.edu
+"Coello Jr.,Juan Alonso",Juan,Coello,COELLOJA,633769,ZT0959,UBHC-Emergency Screen Pisc FFS,SECRETARY IV,0.5429,Teamsters 97,juan.coello@rutgers.edu
+"Colditz,Frances J.",Frances,Colditz,COLDITFJ,633883,ZT0988,UBHC-Military Services,SECRETARY II,1,Teamsters 97,frances.colditz@rutgers.edu
+"Coleman Jr.,Rudy A",Rudy,Coleman,RAC306,695149,ZG0035,UCHC-Northern St Prison Phys,REGIONAL OPERATIONS MGR - UCHC,1,MPSC - Legacy UMD,rac306@rutgers.edu
+"Coleman,Maria A",Maria,Coleman,COLEMAMA,633928,ZT0712,UBHC-Healh IM Pisc,MEDICAL RECORDS TECH,1,Teamsters 97,colemama@rutgers.edu
+"Corbett,Arnoldo",Arnoldo,Corbett,CORBETAR,634401,ZT0901,UBHC-OP Edison,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,corbetar@ubhc.rutgers.edu
+"Correia,Susana",Susana,Correia,GOLFGIRL,317686,ZT0705,UBHC-Acute Psych Services,SECRETARY II,1,Teamsters 97,golfgirl@rutgers.edu
+"Cortez,Raquel",Raquel,Cortez,RC1094,861166,ZT0611,UBHC-Finance,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,rc1094@rutgers.edu
+"Courter,Colleen A",Colleen,Courter,COURTECA,634606,ZG0005,UCHC-East Jersey St Prison Med,UCHC DATA CONTROL CLERK I,1,CWA 1040,colleen.courter@rutgers.edu
+"Cove,Benjamin",Benjamin,Cove,BC638,826138,ZG0030,UCHC-Adult Treatment Ctr Phys,UCHC TECHNICIAN I,0.5,Teamsters 97,bc638@rutgers.edu
+"Cox,Lisa",Lisa,Cox,LM988,826270,ZT0600,UBHC-Administration,UNIT VICE PRESIDENT UBHC,1,Executives and Directors,lisa.cox@rutgers.edu
+"Crawford,Monique D",Monique,Crawford,MDC243,899498,ZT0712,UBHC-Healh IM Pisc,PRIN MEDICAL RECORDS CLERK,1,Teamsters 97,mdc243@rutgers.edu
+"Crossley,Erica Saprina",Erica,Crossley,ESC143,1116261,ZG0029,UCHC-Administration,UCHC DATA CONTROL CLERK I,1,CWA 1040,erica.crossley@rutgers.edu
+"Crump,Yolanda",Yolanda,Crump,CRUMPYO,634895,ZT0973,UBHC-Supported Housing,SECRETARY II,1,Teamsters 97,crumpyo@rutgers.edu
+"Cruz,Stephanie Nicole",Stephanie,Cruz,SNC129,1044246,ZU0712,UBHC-Healh IM Newark,MEDICAL RECORDS TECH,1,Teamsters 97,snc129@ubhc.rutgers.edu
+"Cummings,Cathy L.",Cathy,Cummings,CUMMINCA,635026,ZT2327,UBHC-Institute CSOC,PROG MGR,1,MPSC - Legacy UMD,cathy.cummings@rutgers.edu
+"Daniels,Sabrina",Sabrina,Daniels,SRD116,738048,ZT0931,UBHC-OP New Brunswick,SR SCHED/PAT LIAISON,1,Teamsters 97,sabrina.daniels.ubhc@rutgers.edu
+"Davis,Denise P",Denise,Davis,DAVISD1,635684,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,davisd1@rutgers.edu
+"Davis,Tracey Renee",Tracey,Davis,TRD29,107260,ZG0029,UCHC-Administration,UCHC DATA CONTROL CLERK I,1,CWA 1040,tracey.r.davis@rutgers.edu
+"Davis-Jones,Ericka R",Ericka,Davis-Jones,ERD60,756718,ZG0032,UCHC-Garden St Youth Phys,UCHC TECHNICIAN I,1,Teamsters 97,ericka.davisjones@rutgers.edu
+"Davison-Edralin,Brandi A",Brandi,Davison-Edralin,DAVISBR,635671,ZT0607,UBHC-Information Services,IST ANALYST I,1,CWA 1031,brandi.davison.edralin@rutgers.edu
+"De Sousa,Carlos",Carlos,De Sousa,DESOUSCA,636606,ZT0729,UBHC-Environment of Care,DIR ENVIRONMENT OF CARE,1,Executives and Directors,desousca@rutgers.edu
+"Debilio,Lisa A",Lisa,Debilio,DEBILILA,432495,ZG0001,UCHC,BUSINESS CONSULTANT PD,0.475,Hourly Employees,lisa.debilio@rutgers.edu
+"DeCastro,Soledad",Soledad,DeCastro,SD1206,889912,ZG0038,UCHC-Edna Mahan Corr-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,sd1206@rutgers.edu
+"Deduro,Sherlito Delfin",Sherlito,Deduro,DEDUROSD,635963,ZG0029,UCHC-Administration,UCHC UTILIZATION MGMT COORD,1,HPAE 5094,dedurosd@ubhc.rutgers.edu
+"Delvalle-Gonzalez,Marisa",Marisa,Delvalle-Gonzalez,MD1770,1041768,ZG0039,UCHC-New Jersey St Prsn-Ancill,REGIONAL SCHEDULER,1,Teamsters 97,marisa.delvallegonzalez@rutgers.edu
+"Deshow,Natalie A.",Natalie,Deshow,DESHOWNA,636572,ZT0726,UBHC - HIM - ACCR & Standards,MEDICAL RECORDS TECH,1,Teamsters 97,deshowna@ubhc.rutgers.edu
+"Diaz,Jeannie",Jeannie,Diaz,DIAZJ4,636808,ZU0922,UBHC-OP Newark,SECRETARY III,1,Teamsters 97,diazj4@rutgers.edu
+"Dieguez,Bernard L",Bernard,Dieguez,DIEGUEBL,92675,ZT0710,UBHC-Reimbursements,SR BUDGET & REIMB ANALYST,1,HPAE 5094,dieguebl@rutgers.edu
+"DiLella,Megan Elizabeth",Megan,DiLella,MEGANED,437942,ZT0703,UBHC - Access Center,SR RECEPT PATIENT SCHED,1,Teamsters 97,meganed@rutgers.edu
+"Dineen,Robert J",Robert,Dineen,DINEENRJ,637042,ZT0938,UBHC-PH Adult Monmouth Junct,SUPVG PROG ASST I,1,CWA 1031,dineenrj@rutgers.edu
+"Dix,Gregory G",Gregory,Dix,GGD28,974278,ZG0029,UCHC-Administration,UCHC DIR PHARMACY,1,Executives and Directors,gregory.dix@rutgers.edu
+"Dorocki,Ann Marie",Ann Marie,Dorocki,ADOR,98206,ZT0930,UBHC-PH Adult Cherry Hill,PROG MGR,1,MPSC - Legacy UMD,annmarie.dorocki@rutgers.edu
+"Dunn,Sara E.",Sara,Dunn,DUNNSE,637914,ZG0029,UCHC-Administration,UCHC SECRETARY I,1,CWA 1040,sara.dunn@rutgers.edu
+"Dunn,Sharon M",Sharon,Dunn,DUNNSM,637915,ZG0011,UCHC-New Jersey St Prison Med,UCHC SECRETARY I,1,CWA 1040,sharon.dunn@rutgers.edu
+"Dziema,Joseph William",Joseph,Dziema,JWD98,1048479,ZT0716,UBHC-Information Services,USER SUPPORT SPEC IV,1,HPAE 5094,joe.dziema@rutgers.edu
+"Eagle,Tamara Dawn",Tamara,Eagle,TE163,1025658,ZT0705,UBHC-Acute Psych Services,SECRETARY II,1,Teamsters 97,te163@rutgers.edu
+"Eberhardt,Andrew Andrew",Andrew,Eberhardt,GAE36,1098366,ZT0607,UBHC-Information Services,SR TECHNOLOGIST,1,HPAE 5094,andrew.eberhardt@rutgers.edu
+"Eckhardt,Sean",Sean,Eckhardt,ECKHARSE,638149,ZT0607,UBHC-Information Services,USER SUPPORT SPEC II,1,HPAE 5094,eckharse@ubhc.rutgers.edu
+"Estrada,Carol",Carol,Estrada,ESTRADCA,638878,ZT0725,UBHC-OP Registration,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,carol.estrada@rutgers.edu
+"Estrada,Leonard M",Leonard,Estrada,ESTRADLM,90795,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,leonard.estrada@rutgers.edu
+"Etheridge,Natasha Inez",Natasha,Etheridge,NIE6,791612,ZG0029,UCHC-Administration,REGIONAL SCHEDULER,1,Teamsters 97,nie6@rutgers.edu
+"Farley,TeKeira",TeKeira,Farley,TF358,1098657,ZG0030,UCHC-Adult Treatment Ctr Phys,UCHC TECHNICIAN I,1,Teamsters 97,tekeira.farley@rutgers.edu
+"Farmer,Angela M.",Angela,Farmer,FARMERAM,639218,ZG0032,UCHC-Garden St Youth Phys,UCHC TECHNICIAN I,1,Teamsters 97,farmeram@ubhc.rutgers.edu
+"Farrell,Yvonne",Yvonne,Farrell,YF278,1001332,ZT2327,UBHC-Institute CSOC,INSTRUCTIONAL DESIGNER,1,HPAE 5094,yf278@rutgers.edu
+"Fasanello,Gregory J",Gregory,Fasanello,FASANEGJ,639257,ZT0704,UBHC-Accounting,ADMIN ANAL III,1,HPAE 5094,gregory.fasanello@rutgers.edu
+"Fernandes,Pedro Miguel",Pedro,Fernandes,FERNANPM,617774,ZT0716,UBHC-Information Services,PROJ LEADER,1,CWA 1031,fernanpm@rutgers.edu
+"Figueroa,Alexandra",Alexandra,Figueroa,FIGUERA1,639738,ZU0705,UBHC-Emergency Screen Newark,SECRETARY III,1,Teamsters 97,alexandra.figueroa@rutgers.edu
+"Fillmore,Edward",Edward,Fillmore,FILLMOED,639785,ZT0938,UBHC-PH Adult Monmouth Junct,SECRETARY II,1,Teamsters 97,fillmoed@rutgers.edu
+"Flores,Flor Maria",Flor,Flores,FLORESFL,640127,ZU0708,UBHC-Finance Health Info Mgmt,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,floresfl@ubhc.rutgers.edu
+"Foerch,Heather A",Heather,Foerch,HAF58,1027317,ZT0600,UBHC-Administration,UTILIZATION MGMT COORD,1,HPAE 5094,haf58@rutgers.edu
+"Ford,Patti",Patti,Ford,FORDPA,640312,ZG0001,UCHC,PROG SUPPORT SPEC,1,HPAE 5094,fordpa@ubhc.rutgers.edu
+"Foreman,Shirleen",Shirleen,Foreman,FOREMASH,640321,ZT0961,UBHC-Outpatient Services,ADMIN ASST,1,Teamsters 97,foremash@rutgers.edu
+"Fortney,Frances J",Frances,Fortney,FORTNEFJ,640371,ZT0716,UBHC-Information Services,USER SUPPORT SPEC II,1,HPAE 5094,fortnefj@ubhc.rutgers.edu
+"Francois,Marie Gertanee",Marie,Francois,FRANCOMG,640514,ZG0039,UCHC-New Jersey St Prsn-Ancill,UCHC TECHNICIAN II,1,Teamsters 97,francomg@rutgers.edu
+"Frederick,Susan",Susan,Frederick,FREDERSI,640617,ZT0720,UBHC-Patient Financial Serv,DIR PATIENT FNCL SVCS,1,Executives and Directors,susan.i.frederick@rutgers.edu
+"Fro,Sandra Marianella",Sandra,Fro,SMF307,1101556,ZT0705,UBHC-Acute Psych Services,SR RECEPT SWITCHBOARD OPER,0.5,Teamsters 97,sandra.fro@rutgers.edu
+"Gallo,Danielle Elise",Danielle,Gallo,DEG118,891648,ZT0600,UBHC-Administration,UTILIZATION MGMT COORD,1,HPAE 5094,deg118@rutgers.edu
+"Gallo,Roberta M.",Roberta,Gallo,GALLORM,641100,ZG0002,UCHC - Adult Diag & Trtmnt Ctr,UCHC SECRETARY I,1,CWA 1040,robin.gallo@rutgers.edu
+"Galvin,Suzanne",Suzanne,Galvin,SG1360,821728,ZT0907,UBHC-EAP,SECRETARY II,1,Teamsters 97,suzanne.galvin@rutgers.edu
+"Gardiner,Ny'Asia A",Ny'Asia,Gardiner,NG757,1096380,ZT0713,UBHC-Acute Children,ADMIN ASST,1,Teamsters 97,nyasia.gardiner@rutgers.edu
+"Garrison,Rebecca Theresa",Rebecca,Garrison,RTG64,1106355,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,0.5,Teamsters 97,rebecca.garrison@rutgers.edu
+"Ghinassi,Frank A.",Frank,Ghinassi,GHINASSI,780963,ZT0600,UBHC-Administration,PRESIDENT & CEO UBHC/UCHC,1,Sr Execs Central Admin UMD,ghinassi@ubhc.rutgers.edu
+"Gist Sr.,Charles A",Charles,Gist,GISTCA,642159,ZT0716,UBHC-Information Services,USER SUPPORT SPEC II,1,HPAE 5094,gistca@ubhc.rutgers.edu
+"Goldsmith,Lawrence",Lawrence,Goldsmith,GOLDSMLA,642461,ZT0704,UBHC-Accounting,BUDGET ANAL I,1,HPAE 5094,goldsmla@ubhc.rutgers.edu
+"Gonzalez,Maria T",Maria,Gonzalez,GONZAL16,642583,ZT0725,UBHC-OP Registration,SUPVR REGISTRATION,1,CWA 1031,gonzal16@ubhc.rutgers.edu
+"Goss,Jacquelyn Marie",Jacquelyn,Goss,JMG645,893425,ZT9007,UBHC-Institute BRTI,PROG SUPPORT SPEC,1,HPAE 5094,jmg645@ubhc.rutgers.edu
+"Graff,Lettie K.",Lettie,Graff,GRAFFLK,642934,ZT0714,UBHC-Finance,STAFF ASST,1,HPAE 5094,lettie.graff@rutgers.edu
+"Graham,Mark A",Mark,Graham,MAG480,684130,ZT0988,UBHC-Military Services,EXEC DIR UBHC NATIONL CALL CTR,1,Executives and Directors,mark.graham@rutgers.edu
+"Graham,Raina Leigh",Raina,Graham,RLG171,961218,ZT2327,UBHC-Institute CSOC,INSTRUCTIONAL DESIGNER,1,HPAE 5094,rlg171@rutgers.edu
+"Green,Lanise Ashana",Lanise,Green,LG913,1124086,ZT0901,UBHC-OP Edison,OFFICE MGR,1,CWA 1031,lg913@rutgers.edu
+"Guevara,Aydee Elizabetb",Aydee,Guevara,AEG116,693655,ZU0705,UBHC-Emergency Screen Newark,SECRETARY III,1,Teamsters 97,aydee.guevara@rutgers.edu
+"Guiang,Lilibeth",Lilibeth,Guiang,GUIANGLN,643605,ZT0704,UBHC-Accounting,MGR ACCOUNTING,1,MPSC - Legacy UMD,guiangln@rutgers.edu
+"Gurden,Antoinette L",Antoinette,Gurden,GURDENAL,289707,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,gurdenal@rutgers.edu
+"Haas,Michael",Michael,Haas,HAASMH,643885,ZT0727,UBHC-Data Mgmt Reporting,SR BUSINESS SYS ANAL,1,HPAE 5094,haasmh@rutgers.edu
+"Haiken,Laurie",Laurie,Haiken,LH726,968919,ZT0907,UBHC-EAP,STAFF ASST,1,HPAE 5094,lh726@rutgers.edu
+"Hairston,Celeste A.",Celeste,Hairston,HAIRSTCA,147288,ZT9007,UBHC-Institute BRTI,SUPVG PROG ASST II,1,CWA 1031,hairstca@ubhc.rutgers.edu
+"Haleva,Rina",Rina,Haleva,RH557,765638,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,rina.haleva@rutgers.edu
+"Hall,Jennifer L",Jennifer,Hall,HALLJ1,644058,ZG0029,UCHC-Administration,PATIENT REPRESENTATIVE,1,HPAE 5094,hallj1@rutgers.edu
+"Hammond-Mincy,Charlotte",Charlotte,Hammond-Mincy,HAMMONCM,644170,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,hammoncm@ubhc.rutgers.edu
+"Harper-Bunn,Bridgett",Bridgett,Harper-Bunn,HARPERB1,644454,ZG0033,UCHC-East Jersey St Prisn Phys,SECRETARY III,1,Teamsters 97,harperb1@rutgers.edu
+"Harris,Dawn M",Dawn,Harris,BROWNIDM,630416,ZG0029,UCHC-Administration,UCHC DATA CONTROL CLERK I,1,CWA 1040,dawn.harris@rutgers.edu
+"Harrison,Tina",Tina,Harrison,TINARA,674310,ZG0027,UCHC-Garden St Youth Physical,UCHC DATA CONTROL CLERK I,1,CWA 1040,tina.harrison24@rutgers.edu
+"Hearns,Latoya Ebony",Latoya,Hearns,LEH123,894404,ZG0039,UCHC-New Jersey St Prsn-Ancill,UCHC TECHNICIAN II,1,Teamsters 97,leh123@rutgers.edu
+"Henderson,Kimberly D",Kimberly,Henderson,HENDERKD,645023,ZT0931,UBHC-OP New Brunswick,SECRETARY I,1,Teamsters 97,henderkd@rutgers.edu
+"Hendricks,Alkila",Alkila,Hendricks,AH1593,1100717,ZT0726,UBHC - HIM - ACCR & Standards,MEDICAL RECORDS TECH,1,Teamsters 97,alkila.hendricks@rutgers.edu
+"Hernandez,Desiree Y",Desiree,Hernandez,DYG17,719114,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,desiree.gonzalez@rutgers.edu
+"Hernandez,Yessenia I",Yessenia,Hernandez,YIH5,1044280,ZT0725,UBHC-OP Registration,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,yessenia.hernandez@rutgers.edu
+"Hill,Jordanne Noelle",Jordanne,Hill,JNH118,1173481,ZT0717,UBHC-Institute,RES TEACHING SPEC V,1,HPAE 5094,jordanne.hill@rutgers.edu
+"Hilton,Donata M.",Donata,Hilton,HILTONDM,645418,ZG0029,UCHC-Administration,QI SPEC,1,HPAE 5094,hiltondm@rutgers.edu
+"Hilton-Lerro,Katie",Katie,Hilton-Lerro,HILTONKA,645419,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,hiltonka@ubhc.rutgers.edu
+"Holder,Ezinma Delisa",Ezinma,Holder,EDH65,947797,ZU0713,UBHC-PH Adult Newark,SR RECEPT SWITCHBOARD OPER,1,Teamsters 97,edh65@rutgers.edu
+"Hollmann,Charlotte",Charlotte,Hollmann,CH701,685218,ZG0032,UCHC-Garden St Youth Phys,MEDICAL RECORDS TECH,1,Teamsters 97,ch701@rutgers.edu
+"Hopkins,Davina Lydia",Davina,Hopkins,DLH256,1100250,ZG0039,UCHC-New Jersey St Prsn-Ancill,UCHC TECHNICIAN I PD,0.475,Health Care Prof Per Diem,davina.hopkins@rutgers.edu
+"Hopkins,Sheronda V",Sheronda,Hopkins,HOPKINSV,645890,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN II,1,Teamsters 97,hopkinsv@rutgers.edu
+"Hynson,Gloria M.",Gloria,Hynson,HYNSONGL,646555,ZT0907,UBHC-EAP,DATA CONTROL CLERK I,0.5714,Teamsters 97,hynsongl@rutgers.edu
+"Irving,Shanique S.",Shanique,Irving,SSI18,752129,ZT0988,UBHC-Military Services,ADMIN ASST,1,Teamsters 97,shanique.irving@rutgers.edu
+"Itwaru,Govind",Govind,Itwaru,GI58,778797,ZT0607,UBHC-Information Services,USER SUPPORT SPEC II,1,HPAE 5094,gi58@rutgers.edu
+"Jabalon,Bruce D",Bruce,Jabalon,JABALOBD,646948,ZT0726,UBHC - HIM - ACCR & Standards,MEDICAL RECORDS TECH,1,Teamsters 97,jabalobd@rutgers.edu
+"Jabbour,Ghassan I",Ghassan,Jabbour,JABBOUGU,646953,ZT0716,UBHC-Information Services,MGR IST,1,MPSC - Legacy UMD,gus.jabbour@ubhc.rutgers.edu
+"Jackson,Tammy",Tammy,Jackson,TJ314,968583,ZT0923,UBHC-Community-Based Services,SECRETARY II,1,Teamsters 97,tammy.jackson@rutgers.edu
+"Jackson,Tracy Yvette",Tracy,Jackson,TYW4,274049,ZT0901,UBHC-OP Edison,SECRETARY I,1,Teamsters 97,tracy.jackson1@rutgers.edu
+"James,Kiana Akeya",Kiana,James,JAMESKA,647247,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I PD,0.475,Health Care Prof Per Diem,kiana.james@rutgers.edu
+"Jaques,Mariver",Mariver,Jaques,MJ870,1082858,ZT0931,UBHC-OP New Brunswick,SECRETARY III,1,Teamsters 97,mj870@connect.rutgers.edu
+"Jayasundera,Christa",Christa,Jayasundera,CJ486,1030972,ZT0901,UBHC-OP Edison,SECRETARY II,1,Teamsters 97,cj486@rutgers.edu
+"Johnson,Katie Mary",Katie,Johnson,KMJ152,892659,ZT0986,UBHC-Early Interventn Supp Sv,SECRETARY II,1,Teamsters 97,kmj152@rutgers.edu
+"Johnson,Madelyn M",Madelyn,Johnson,JOHNSOMM,647902,ZT0720,UBHC-Patient Financial Serv,ADMIN ANAL III,1,HPAE 5094,johnsomm@rutgers.edu
+"Johnson,Shermika Keyonta",Shermika,Johnson,SJ940,975672,ZT0901,UBHC-OP Edison,SR RECEPT PATIENT SCHED,1,Teamsters 97,shermika.johnson@rutgers.edu
+"Johnson,Suzette Lashay",Suzette,Johnson,SLJ91,787147,ZT0930,UBHC-PH Adult Cherry Hill,TRANSPORTATION DISPATCHER,1,Teamsters 97,suzette.johnson@rutgers.edu
+"Johnson-Bowen,Tracey Loreen",Tracey Loreen,Johnson-Bowen,JOHNSOTR,647959,ZG0038,UCHC-Edna Mahan Corr-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,johnsotr@rutgers.edu
+"Jones,Earlene",Earlene,Jones,EJ257,865492,ZT0988,UBHC-Military Services,SYSTEMS ADMINISTRATOR III,1,HPAE 5094,ej257@rutgers.edu
+"Jones,Sophia I",Sophia,Jones,JONESSI,648141,ZT2327,UBHC-Institute CSOC,TRAINING&CONSULTATION SPEC,1,HPAE 5094,jonessi@rutgers.edu
+"Joseph,Peter",Peter,Joseph,PJ249,895584,ZT0930,UBHC-PH Adult Cherry Hill,SR CLERK DRIVER,1,Teamsters 97,pj249@rutgers.edu
+"Kanellos,Kathrene",Kathrene,Kanellos,KANELLKA,648625,ZT0938,UBHC-PH Adult Monmouth Junct,SECRETARY II,1,Teamsters 97,kanellka@rutgers.edu
+"Kazary,Amy K",Amy,Kazary,KAZARYAK,649061,ZT0726,UBHC - HIM - ACCR & Standards,MGR CLINICAL RECORDS,1,MPSC - Legacy UMD,kazaryak@rutgers.edu
+"Keck,Donald E",Donald,Keck,KECKDE,649102,ZT0938,UBHC-PH Adult Monmouth Junct,SR CLERK DRIVER,1,Teamsters 97,donald.keck@rutgers.edu
+"Keller,Jeff Robert",Jeff,Keller,JRK237,1100574,ZG0029,UCHC-Administration,PROG ADMIN,1,MPSC - Legacy UMD,jeff.keller@rutgers.edu
+"Kemp,Anita",Anita,Kemp,KEMPAN,649271,ZT0712,UBHC-Healh IM Pisc,DATA CONTROL CLERK I,1,Teamsters 97,kempan@rutgers.edu
+"Khan,Alice Lynn",Alice,Khan,KHANAL,649477,ZT0704,UBHC-Accounting,SR FIN ANALYST I,1,HPAE 5094,khanal@rutgers.edu
+"Khan,Mehvesh",Mehvesh,Khan,MK1947,965547,ZT0615,UBHC-CMO,ASST PROF-PROF PRAC-MED DIR,1,Faculty Administrators,mehvesh.khan@rutgers.edu
+"King,Christina",Christina,King,KINGC1,649815,ZG0028,UCHC-South Woods Prison Phys,UCHC DATA CONTROL CLERK I,1,CWA 1040,kingc1@ubhc.rutgers.edu
+"Kirkland,Patricia A",Patricia,Kirkland,PAK148,897847,ZG0040,UCHC-Bayside St Prsn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,pak148@rutgers.edu
+"Kirsh,Maureen",Maureen,Kirsh,MK1358,720019,ZT0713,UBHC-Acute Children,ADMIN ASST,1,Teamsters 97,maureen.kirsh@rutgers.edu
+"Kneski,Joe",Joe,Kneski,JK1742,899276,ZT0716,UBHC-Information Services,DIR IST-CLINICAL & BUS SYSTEMS,1,Executives and Directors,jk1742@rutgers.edu
+"Knight,Jonathan Chad",Jonathan,Knight,JK1990,1024070,ZG0001,UCHC,CHIEF OPER OFF UCHC,2,Executives and Directors,j.chad.knight@rutgers.edu
+"Kohler,Donna",Donna,Kohler,DK756,711433,ZG0029,UCHC-Administration,BUSINESS CONSULTANT PD,0.475,Hourly Employees,dk756@rutgers.edu
+"Konova,Anna",Anna,Konova,AK1677,858234,ZT0717,UBHC-Institute,ASST PROF-TT,1,AAUP BHSNJ Faculty,anna.konova@rutgers.edu
+"Kowalczyk,Dawn Marie",Dawn,Kowalczyk,DL771,756722,ZT2327,UBHC-Institute CSOC,PROG COOR,1,CWA 1031,dawn.lacy@rutgers.edu
+"Kyeremateng,Faith",Faith,Kyeremateng,FAITHK,500625,ZT0703,UBHC - Access Center,SR RECEPT PATIENT SCHED,1,Teamsters 97,faithk@rutgers.edu
+"Laird,Kimberly S.",Kimberly,Laird,LAIRDKS,651226,ZG0033,UCHC-East Jersey St Prisn Phys,MEDICAL RECORDS TECH,1,Teamsters 97,kimberly.laird@rutgers.edu
+"Lauriano,Maritza",Maritza,Lauriano,MEDRANMA,656353,ZT0710,UBHC-Reimbursements,BUDGET ANAL II,1,HPAE 5094,maritza.lauriano@rutgers.edu
+"Ledesma,Liezl",Liezl,Ledesma,LL702,745799,ZT2327,UBHC-Institute CSOC,SECRETARY I,1,Teamsters 97,l.ledesma@rutgers.edu
+"Lee,Dawn M",Dawn,Lee,LEEDM1,651900,ZU0922,UBHC-OP Newark,OFFICE MGR,1,CWA 1031,leedm1@ubhc.rutgers.edu
+"Linares,Danny",Danny,Linares,DL1049,972331,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I,1,Teamsters 97,dl1049@rutgers.edu
+"Lloyd,Elizabeth C",Elizabeth,Lloyd,ECL69,781882,ZG0040,UCHC-Bayside St Prsn-Ancillary,REGIONAL SCHEDULER,1,Teamsters 97,ecl69@rutgers.edu
+"Lockhart,Kane'a Charmane",Kane'a,Lockhart,KCL97,1128728,ZT0940,UBHC-OP Monmouth Junction,SECRETARY II,1,Teamsters 97,kanea.lockhart@rutgers.edu
+"LoFaro,Francesca M",Francesca,LoFaro,FML42,952628,ZT0717,UBHC-Institute,GRADUATE FELLOW-NO REM,1,Fellowship/Stipends,francesca.lofaro@rutgers.edu
+"Lore,Veronica Susan",Veronica,Lore,VSL20,688324,ZG0029,UCHC-Administration,UCHC DATA CONTROL CLERK I,1,CWA 1040,veronica.lore@rutgers.edu
+"Loza,Jennifer L.",Jennifer,Loza,LOZAJE,653542,ZU0708,UBHC-Finance Health Info Mgmt,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,lozaje@rutgers.edu
+"Luan,Mike Huajun",Mike,Luan,LUANHM,653554,ZT0716,UBHC-Information Services,SR APPLICATIONS SPECIALIST,1,HPAE 5094,mike.luan@rutgers.edu
+"Luckenbaugh,Scott D.",Scott,Luckenbaugh,LUCKENSC,653607,ZT0727,UBHC-Data Mgmt Reporting,MGR FIN DATA MGMT & REPORTING,1,MPSC - Legacy UMD,scott.luckenbaugh@rutgers.edu
+"Ludwikowski,Janet",Janet,Ludwikowski,JL2521,883578,ZG0032,UCHC-Garden St Youth Phys,MEDICAL RECORDS TECH,1,Teamsters 97,jl2521@ubhc.rutgers.edu
+"Macpherson,Donald",Donald,Macpherson,MACPHEDO,653976,ZT0986,UBHC-Early Interventn Supp Sv,ENVIRONMENTAL SVC WORKER,0.15,Teamsters 97 <20 HRS Eiligible,macphedo@rutgers.edu
+"Mader,Paulette M",Paulette,Mader,PM241,159563,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,paulette.mader@rutgers.edu
+"Maharajh,Ravi K.",Ravi,Maharajh,MAHARARK,654137,ZT0600,UBHC-Administration,DIR MARKETING & COMMUNICATIONS,1,Executives and Directors,ravi.maharajh@rutgers.edu
+"Majewski,Keith",Keith,Majewski,MAJEWSKA,654235,ZT0710,UBHC-Reimbursements,PRIN BUDGET & REIMB ANALYST,1,HPAE 5094,majewska@rutgers.edu
+"Makris,Kiriaka",Kiriaka,Makris,KM1143,783682,ZG0024,UCHC-State Parole,UCHC DATA CONTROL CLERK I,1,CWA 1040,km1143@rutgers.edu
+"Manning,John Michael",John,Manning,JOHNMAN,396655,ZG0029,UCHC-Administration,CLIN PHARMACIST SPEC,1,HPAE 5094,john.manning@rutgers.edu
+"Marcello,Stephanie Claire",Stephanie,Marcello,MARCELSC,654707,ZT9007,UBHC-Institute BRTI,ASST VP ACAD INTEGRATION&INNOV,1,Executives and Directors,marcelsc@rutgers.edu
+"Marshall,Mia",Mia,Marshall,MM2947,894482,ZG0032,UCHC-Garden St Youth Phys,UCHC TECHNICIAN I,1,Teamsters 97,mm2947@rutgers.edu
+"Martens,Anne Elizabeth",Anne,Martens,AEM315,1123786,ZG0039,UCHC-New Jersey St Prsn-Ancill,UCHC TECHNICIAN I,1,Teamsters 97,anne.martens@rutgers.edu
+"Martinez,Juliveth",Juliveth,Martinez,JM2637,969413,ZT0903,UBHC-OP Addictions,SECRETARY II,1,Teamsters 97,juliveth.martinez@rutgers.edu
+"Matejcek,Kate E",Kate,Matejcek,MATEJCKE,655295,ZG0010,UCHC-Edna Mahan Correction Med,UCHC DATA CONTROL CLERK I,1,CWA 1040,matejcke@rutgers.edu
+"Matish,Amy B.",Amy,Matish,MATISHAB,655375,ZG0042,UCHC-South Woods Psn-Ancillary,SECRETARY III,1,Teamsters 97,amy.matish@rutgers.edu
+"Matugas,Joan Vergara",Joan,Matugas,VERGARJO,676049,ZT0712,UBHC-Healh IM Pisc,MEDICAL RECORDS TECH,1,Teamsters 97,joan.matugas@rutgers.edu
+"Mayer,Delicia",Delicia,Mayer,MAYERDE,655507,ZG0032,UCHC-Garden St Youth Phys,UCHC TECHNICIAN I,1,Teamsters 97,mayerde@ubhc.rutgers.edu
+"Mccartney,Stephanie A.",Stephanie,Mccartney,MCCARTSA,655727,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,mccartsa@rutgers.edu
+"McCray,Raina",Raina,McCray,RM1377,853747,ZG0032,UCHC-Garden St Youth Phys,UCHC TECHNICIAN I,1,Teamsters 97,rm1377@rutgers.edu
+"Mcdaniel,Marsette",Marsette,Mcdaniel,MCDANIMA,655852,ZT0903,UBHC-OP Addictions,SECRETARY II,1,Teamsters 97,mcdanima@ubhc.rutgers.edu
+"McGrellis,Karen",Karen,McGrellis,KM801,597208,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,km801@rutgers.edu
+"Mcmichael,Jennifer R",Jennifer,Mcmichael,JRM390,751773,ZG0040,UCHC-Bayside St Prsn-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,jennifer.mcmichael@rutgers.edu
+"McNair,Shawn F",Shawn,McNair,SFM92,934802,ZG0040,UCHC-Bayside St Prsn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,sfm92@rutgers.edu
+"Mendoza,Ma. Socorro",Ma. Socorro,Mendoza,MM2336,744656,ZT1671,UBHC-Quality Improvement,QUAL IMPROV COOR,1,HPAE 5094,socorro.mendoza@rutgers.edu
+"Mendoza,Maria",Maria,Mendoza,MBM177,726698,ZT0923,UBHC-Community-Based Services,SECRETARY I,1,Teamsters 97,mbm177@rutgers.edu
+"Mendoza-Ryals,Mikko",Mikko,Mendoza-Ryals,MENDOZM5,656605,ZT0961,UBHC-Outpatient Services,OFFICE MGR,1,CWA 1031,mendozm5@ubhc.rutgers.edu
+"Mercado,Maria Gina Mabiog",Maria Gina,Mercado,MERCADMG,656671,ZT0712,UBHC-Healh IM Pisc,MEDICAL RECORDS TECH,1,Teamsters 97,mercadmg@rutgers.edu
+"Miller,Michele Ann",Michele,Miller,MILLERM2,657072,ZT0601,UBHC-Acute-Nursing Admin,UNIT VICE PRESIDENT UBHC,1,Executives and Directors,michele.a.miller@rutgers.edu
+"Miller,Michelle Rita",Michelle,Miller,MRM496,1101467,ZT0705,UBHC-Acute Psych Services,SR RECEPT/SWITCHBOARD OP PD,0.475,Health Care Prof Per Diem,michelle.miller3@rutgers.edu
+"Minnich,Christine M.",Christine,Minnich,MINNICCM,657192,ZG0038,UCHC-Edna Mahan Corr-Ancillary,SECRETARY III,1,Teamsters 97,minniccm@rutgers.edu
+"Miranda,Gloria E",Gloria,Miranda,MIRANDGE,657227,ZT0607,UBHC-Information Services,IST SUPVR II,1,CWA 1031,mirandge@ubhc.rutgers.edu
+"Misterio,Josef Edward",Josef,Misterio,JEM425,761524,ZT0716,UBHC-Information Services,USER SUPPORT SPEC IV,1,HPAE 5094,jem425@rutgers.edu
+"Monroy-Navarro,Sandra",Sandra,Monroy-Navarro,VELAZQSE,675925,ZT0607,UBHC-Information Services,IST ANALYST II,1,HPAE 5094,sandra.monroynavarro@rutgers.edu
+"Montgomery-Brown,Jessica Lynn",Jessica,Montgomery-Brown,BROWNJL,461570,ZT2327,UBHC-Institute CSOC,TRAINING&CONSULTATION SPEC,1,HPAE 5094,jessica.montgomerybrown@rutgers.edu
+"Moodie,Dorell I",Dorell,Moodie,MOODIEDI,657746,ZT0725,UBHC-OP Registration,ASST MGR REGISTRATION SVCS,1,MPSC - Legacy UMD,moodiedi@ubhc.rutgers.edu
+"Moreira,Amy Ivette",Amy,Moreira,MOREIRAM,657957,ZT0712,UBHC-Healh IM Pisc,HD CLERK,1,Teamsters 97,moreiram@rutgers.edu
+"Moskowitz,Gloria Jean",Gloria,Moskowitz,GJM138,995892,ZT0933,UBHC-Inpatient/CTR,SECRETARY II,1,Teamsters 97,gjm138@rutgers.edu
+"Mosley,Kameelah B.",Kameelah,Mosley,MOSLEYKB,658192,ZG0042,UCHC-South Woods Psn-Ancillary,SECRETARY III,1,Teamsters 97,mosleykb@rutgers.edu
+"Mudalel,Denise",Denise,Mudalel,DM1111,717427,ZT0710,UBHC-Reimbursements,SR BUDGET & REIMB ANALYST,1,HPAE 5094,denise.mudalel@rutgers.edu
+"Muhammad,Inshirah",Inshirah,Muhammad,IM318,945350,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I,1,Teamsters 97,im318@rutgers.edu
+"Mundaray,Nelly",Nelly,Mundaray,NM980,903962,ZG0051,UCHC-New Jersey St Prsn-Nursng,UCHC TECHNICIAN I PD,0.475,Health Care Prof Per Diem,nm980@rutgers.edu
+"Munoz-Zelaya,Kayce Nicole",Kayce,Munoz-Zelaya,KNM117,1102607,ZG0039,UCHC-New Jersey St Prsn-Ancill,MEDICAL RECORDS TECH,1,Teamsters 97,kayce.munozzelaya@rutgers.edu
+"Neumann,Madeline Ann",Madeline,Neumann,MN859,1096837,ZT0911,UBHC-Cop2Cop,PROG DEV SPEC II,1,HPAE 5094,mn859@rutgers.edu
+"Nolan,Joanne",Joanne,Nolan,JN471,772076,ZT0705,UBHC-Acute Psych Services,OFFICE MGR,1,CWA 1031,jn471@ubhc.rutgers.edu
+"Novick,Lauren Marie",Lauren,Novick,SCHNEILM,668864,ZT0726,UBHC - HIM - ACCR & Standards,SECRETARY II,1,Teamsters 97,schneilm@ubhc.rutgers.edu
+"Nunez,Lisette D",Lisette,Nunez,LDN23,781042,ZT0930,UBHC-PH Adult Cherry Hill,SECRETARY I,1,Teamsters 97,lisette.nunez@rutgers.edu
+"O'Brien,Carl W",Carl,O'Brien,CWOBRIEN,448857,ZT0714,UBHC-Finance,CHIEF FIN OFF UBHC,1,Executives and Directors,carl.obrien@rutgers.edu
+"O'Callaghan,Elizabeth M.",Elizabeth M.,O'Callaghan,OCALLAEL,660053,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,ocallael@rutgers.edu
+"O'Connell,Arlene",Arlene,O'Connell,OCONNEAR,660083,ZT9007,UBHC-Institute BRTI,RESOURCE COOR,0.2992,HPAE 5094,oconnear@rutgers.edu
+"O'Grady,Monica",Monica,O'Grady,OGRADYMO,660236,ZT0726,UBHC - HIM - ACCR & Standards,PROG COOR,1,CWA 1031,ogradymo@rutgers.edu
+"Okoduwa,Glory",Glory,Okoduwa,GO130,943531,ZG0033,UCHC-East Jersey St Prisn Phys,UCHC TECHNICIAN I,1,Teamsters 97,go130@rutgers.edu
+"Olayiwola,James Olufisayo",James,Olayiwola,OLAYIWJO,660435,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,0.5,Teamsters 97,james.olay@ubhc.rutgers.edu
+"Olouadara,Sabi A.",Sabi,Olouadara,OLOUADSA,660506,ZG0038,UCHC-Edna Mahan Corr-Ancillary,UCHC TECHNICIAN II,1,Teamsters 97,olouadsa@rutgers.edu
+"Onukogu,Ezinne Nnenna",Ezinne,Onukogu,EZINNE,411880,ZG0038,UCHC-Edna Mahan Corr-Ancillary,CLIN PHARMACIST SPEC,1,HPAE 5094,ezinne.onukogu@rutgers.edu
+"Ortiz,Nina Nicole",Nina,Ortiz,NNO7,582706,ZT0713,UBHC-Acute Children,ADMIN ASST,1,Teamsters 97,nno7@ubhc.rutgers.edu
+"Padilla,Ryan Richard",Ryan,Padilla,RP1272,1034974,ZT0988,UBHC-Military Services,PROG DEV SPEC II,1,HPAE 5094,rp1272@rutgers.edu
+"Parker,Denise Hayes",Denise,Parker,PARKERDH,661621,ZT2327,UBHC-Institute CSOC,SR MGMT ASST,1,CWA 1031,denise.parker@ubhc.rutgers.edu
+"Patel,Chaitali",Chaitali,Patel,CP894,855219,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,cp894@rutgers.edu
+"Patel,Jayesh",Jayesh,Patel,JP2324,1097626,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,jayesh.patel2@rutgers.edu
+"Patel,Nisthhaben Shailesh",Nisthhaben,Patel,PATELNS,662207,ZT0607,UBHC-Information Services,IST ANALYST II,1,HPAE 5094,patelns@rutgers.edu
+"Patron,Shianna K.",Shianna,Patron,SP1335,707743,ZT0986,UBHC-Early Interventn Supp Sv,SECRETARY II,1,Teamsters 97,sp1335@rutgers.edu
+"Pavlik,Richard John",Richard,Pavlik,RP1275,1037086,ZG0061,UCHC-Telemedicine,USER SUPPORT SPEC II,1,HPAE 5094,richard.pavlik@rutgers.edu
+"Peppe,Brett Alfonso",Brett,Peppe,BAP227,1102241,ZT9007,UBHC-Institute BRTI,PROG MGR,1,MPSC - Legacy UMD,brett.peppe@rutgers.edu
+"Pepsin,Debra M",Debra,Pepsin,PEPSINDM,662692,ZG0026,UCHC-Edna Mahan Correctn Phys,UCHC DATA CONTROL CLERK I,1,CWA 1040,pepsindm@rutgers.edu
+"Peralta,Tania",Tania,Peralta,EP554,851408,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,ep554@rutgers.edu
+"Pernell,Michelle A",Michelle,Pernell,MAP535,762595,ZG0042,UCHC-South Woods Psn-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,map535@ubhc.rutgers.edu
+"Perry,Regina",Regina,Perry,RP943,815580,ZT0901,UBHC-OP Edison,SR SCHED/PAT LIAISON,1,Teamsters 97,rp943@rutgers.edu
+"Philemon,Saanne I",Saanne,Philemon,SIP30,936432,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I,1,Teamsters 97,sip30@rutgers.edu
+"Piccone,Ryan Patrick",Ryan,Piccone,RPICCONE,526847,ZG0029,UCHC-Administration,PROG ADMIN,1,MPSC - Legacy UMD,ryan.piccone@rutgers.edu
+"Pierce,Jekeirah",Jekeirah,Pierce,JP1837,897041,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,jp1837@rutgers.edu
+"Pietras,Monika",Monika,Pietras,MP1264,716170,ZT0718,UBHC-Patient Accounting,ASST MGR PATIENT ACCOUNTS,1,MPSC - Legacy UMD,monika.b.pietras@rutgers.edu
+"Pigott,Michelle Helene",Michelle,Pigott,MHP93,897040,ZT9007,UBHC-Institute BRTI,TRAINING&CONSULTATION SPEC,1,HPAE 5094,mhp93@rutgers.edu
+"Pina Bautista,Diana M",Diana,Pina Bautista,DMP470,1099705,ZU0922,UBHC-OP Newark,SECRETARY III,1,Teamsters 97,diana.pina@rutgers.edu
+"Piomelli,Gabrielle",Gabrielle,Piomelli,GABCIN,470831,ZT0988,UBHC-Military Services,PROG MGR,1,MPSC - Legacy UMD,gabrielle.cincotta@rutgers.edu
+"Popino,Kathryn A.",Kathryn,Popino,POPINOKA,663795,ZG0001,UCHC,PRIN MGMNT ASST CONFIDTL,1,MPSC - Legacy UMD,popinoka@ubhc.rutgers.edu
+"Pozo,Beatriz M.",Beatriz,Pozo,GARCIABM,641276,ZT9007,UBHC-Institute BRTI,SECRETARY II,1,Teamsters 97,garciabm@ubhc.rutgers.edu
+"Prestien-La Penta,Christina M.",Christina,Prestien-La Penta,PRESTICM,664067,ZG0001,UCHC,UCHC ADMIN NURSING SVCS,1,Executives and Directors,presticm@ubhc.rutgers.edu
+"Pugsley,Shamieka",Shamieka,Pugsley,PUGSLESH,664265,ZU0705,UBHC-Emergency Screen Newark,SECRETARY I,1,Teamsters 97,pugslesh@ubhc.rutgers.edu
+"Pursino,Roxane",Roxane,Pursino,PURSINRN,664334,ZT0720,UBHC-Patient Financial Serv,ADMIN ANAL III,1,HPAE 5094,pursinrn@rutgers.edu
+"Puvel,James J",James,Puvel,PUVELJJ,664358,ZG0036,UCHC-Midstate Correction Phys,UCHC TECHNICIAN I,1,Teamsters 97,puveljj@rutgers.edu
+"Quilallan,Jay P.",Jay,Quilallan,QUILALJA,178952,ZT0712,UBHC-Healh IM Pisc,DATA CONTROL CLERK I,1,Teamsters 97,jay.quilallan@rutgers.edu
+"Ramirez,Taurian Nichelle",Taurian,Ramirez,TNR34,1038100,ZU0713,UBHC-PH Adult Newark,SECRETARY I,1,Teamsters 97,tnr34@ubhc.rutgers.edu
+"Ramos,Miriam C",Miriam,Ramos,MCR186,935047,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I,1,Teamsters 97,mcr186@rutgers.edu
+"Ramos,Valerie",Valerie,Ramos,VR471,1179895,ZT0901,UBHC-OP Edison,SECRETARY II,1,Teamsters 97,v.ramos@rutgers.edu
+"Rea,Karen",Karen,Rea,REAKA,665240,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,reaka@rutgers.edu
+"Reasoner,Toscani G",Toscani,Reasoner,TGR18,723774,ZG0039,UCHC-New Jersey St Prsn-Ancill,SECRETARY III,1,Teamsters 97,toscani.g.reasoner@rutgers.edu
+"Reed,Alicia",Alicia,Reed,REEDAL,665342,ZU0922,UBHC-OP Newark,SECRETARY II,1,Teamsters 97,alicia.reed@rutgers.edu
+"Reed,Terry Lynn",Terry,Reed,REEDTL,665375,ZU0202,UBHC-Adult Res Newark,SECRETARY III,1,Teamsters 97,terry.reed@rutgers.edu
+"Ricks,Hermione N.",Hermione,Ricks,RICKSHE,665914,ZT2327,UBHC-Institute CSOC,SECRETARY I,1,Teamsters 97,hermione.ricks@rutgers.edu
+"Rivera,Rebecca",Rebecca,Rivera,RIVERARE,666145,ZT9007,UBHC-Institute BRTI,STAFF ASST,1,HPAE 5094,riverare@rutgers.edu
+"Roberts-Chandler,Tina Marie",Tina,Roberts-Chandler,TMR197,979804,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I PD,0.475,Health Care Prof Per Diem,tina.roberts@rutgers.edu
+"Robinson,Carol Deborah",Carol,Robinson,CDR109,868329,ZU0202,UBHC-Adult Res Newark,ENVIRONMENTAL SVC WORKER,0.6,Teamsters 97,cdr109@rutgers.edu
+"Rockwell,Christina",Christina,Rockwell,ROCKWECH,666420,ZG0012,UCHC-Bayside St Prison Med,UCHC SECRETARY I,1,CWA 1040,christina.rockwell@rutgers.edu
+"Rodrigues,Darlene",Darlene,Rodrigues,RODRIGD2,517054,ZT0940,UBHC-OP Monmouth Junction,SECRETARY I,1,Teamsters 97,rodrigd2@ubhc.rutgers.edu
+"Rodriguez,Carlos",Carlos,Rodriguez,CR727,825394,ZT0930,UBHC-PH Adult Cherry Hill,SR CLERK DRIVER,1,Teamsters 97,cr727@rutgers.edu
+"Rodriguez,Cecilia",Cecilia,Rodriguez,CR877,965692,ZT0611,UBHC-Finance,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,cr877@rutgers.edu
+"Rodriguez,Pablo Enriquez",Pablo,Rodriguez,RODRIGPA,666546,ZT0931,UBHC-OP New Brunswick,SECRETARY II,1,Teamsters 97,pablo.rodriquez@rutgers.edu
+"Ruffin,Gwendolyn",Gwendolyn,Ruffin,GR396,859465,ZT0911,UBHC-Cop2Cop,OFFICE MGR,1,CWA 1031,gr396@rutgers.edu
+"Ruiz Ramos,Jeraldyn",Jeraldyn,Ruiz Ramos,JR1941,1114844,ZU0922,UBHC-OP Newark,SR SCHED/PAT LIAISON,2,Teamsters 97,jr1941@rutgers.edu
+"Salas,Elvia",Elvia,Salas,SALASEL,667792,ZT0718,UBHC-Patient Accounting,BILLING TECH I,1,Teamsters 97,salasel@rutgers.edu
+"Salzano,Doris Alicia",Doris,Salzano,DAS604,1030337,ZT9007,UBHC-Institute BRTI,STAFF ASST,1,HPAE 5094,d.salzano@rutgers.edu
+"Saunders,Geneva T",Geneva,Saunders,SAUNDEGT,668480,ZU0922,UBHC-OP Newark,CLINIC SERVICES REP II,1,Teamsters 97,geneva.saunders@rutgers.edu
+"Saville,Amy Jacob",Amy,Saville,JACOBAS,212367,ZT2327,UBHC-Institute CSOC,TRAINING&CONSULTATION SPEC,0.6,HPAE 5094,jacobas@rutgers.edu
+"Sawyer,Amanda F.",Amanda,Sawyer,SAWYERAF,668537,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN II,1,Teamsters 97,sawyeraf@rutgers.edu
+"Schley,Nicole E.",Nicole,Schley,SCHLEYNE,668787,ZT0713,UBHC-Acute Children,PROG MGR,1,MPSC - Legacy UMD,nicole.schley@rutgers.edu
+"Scilingo,Elaine",Elaine,Scilingo,POLICAEL,663666,ZG0002,UCHC - Adult Diag & Trtmnt Ctr,UCHC DATA CONTROL CLERK I,1,CWA 1040,elaine.scilingo@rutgers.edu
+"Scott,George",George,Scott,SCOTTGF,544734,ZT9007,UBHC-Institute BRTI,RESOURCE COOR,0.2667,HPAE 5094 <20 HRS Eligible,george.scott@rutgers.edu
+"Scott,Lindsay C",Lindsay,Scott,LCS159,897727,ZT2327,UBHC-Institute CSOC,PROG SUPPORT COOR,1,HPAE 5094,lcs159@rutgers.edu
+"Seeley,Renee Kathleen",Renee,Seeley,SEELEYRK,669265,ZT0726,UBHC - HIM - ACCR & Standards,HD CLERK,1,Teamsters 97,seeleyrk@ubhc.rutgers.edu
+"Shah,Richa A",Richa,Shah,SHAH123,669594,ZT0653,UBHC-Acute-Pharmacy,CLIN PHARMACY MGR,1,MPSC - Legacy UMD,shah123@rutgers.edu
+"Shelby,Emma C",Emma,Shelby,ECS17,83624,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,emma.shelby@rutgers.edu
+"Sidhu,Varunvir",Varunvir,Sidhu,VSIDHU,526009,ZT1671,UBHC-Quality Improvement,QUAL IMPROV COOR,1,HPAE 5094,vsidhu@ubhc.rutgers.edu
+"Singer,Delanie",Delanie,Singer,DS2151,1101062,ZT0973,UBHC-Supported Housing,SUPVG PROG ASST I,1,CWA 1031,ds2151@rutgers.edu
+"Sleavin,Tara E",Tara,Sleavin,TES98,684904,ZG0024,UCHC-State Parole,UCHC DATA CONTROL CLERK I,1,CWA 1040,tara.sleavin@rutgers.edu
+"Smit,Matthew A",Matthew,Smit,MASMIT,439393,ZT0607,UBHC-Information Services,PROGRAMMER ANALYST II,1,HPAE 5094,masmit@rutgers.edu
+"Smith,Anita V",Anita,Smith,AS2638,779698,ZT0607,UBHC-Information Services,STAFF ASST,1,HPAE 5094,as2638@ubhc.rutgers.edu
+"Smith,Beverly A",Beverly,Smith,BAS283,702936,ZG0029,UCHC-Administration,UCHC DATA CONTROL CLERK I,1,CWA 1040,bas283@rutgers.edu
+"Smith,Elvira K",Elvira,Smith,SMITHEK,671268,ZT9007,UBHC-Institute BRTI,RESOURCE COORD PD,0.475,Hourly Employees,smithek@rutgers.edu
+"Spain,Marlene",Marlene,Spain,SPAINMA,671858,ZT0712,UBHC-Healh IM Pisc,DATA CONTROL CLERK I,1,Teamsters 97,spainma@ubhc.rutgers.edu
+"Spearnock,Jamie E",Jamie,Spearnock,SPEARNJE,63769,ZT0704,UBHC-Accounting,ADMIN ANAL III,0.6,HPAE 5094,jamie.spearnock@rutgers.edu
+"Spingler,Susan",Susan,Spingler,SPINGLSU,671983,ZG0029,UCHC-Administration,PROG MGR,1,MPSC - Legacy UMD,spinglsu@ubhc.rutgers.edu
+"St. Hill,Donna Terese",Donna,St. Hill,DTS94,889042,ZT0600,UBHC-Administration,DIR UTILIZATION MGMNT,1,Executives and Directors,dts94@ubhc.rutgers.edu
+"Stafford,Monique Chontelle",Monique,Stafford,MCS377,1072033,ZT0930,UBHC-PH Adult Cherry Hill,SECRETARY II,1,Teamsters 97,monique.stafford@rutgers.edu
+"Stafford,Tia",Tia,Stafford,TS1189,1041763,ZG0035,UCHC-Northern St Prison Phys,HEALTH RECORDS CLERK,1,Teamsters 97,tia.stafford@rutgers.edu
+"Stolzer,Marc A",Marc,Stolzer,STOLZEMA,672578,ZT9007,UBHC-Institute BRTI,SR CLERK OFFICE ASST,1,Teamsters 97,stolzema@ubhc.rutgers.edu
+"Stoute,Heather",Heather,Stoute,HBECKLES,487395,ZT1671,UBHC-Quality Improvement,SECRETARY II,1,Teamsters 97,heather.beckles@rutgers.edu
+"Stratigakis,Stephanie L.",Stephanie,Stratigakis,STRATSL,672661,ZT0712,UBHC-Healh IM Pisc,HD CLERK,1,Teamsters 97,stratsl@ubhc.rutgers.edu
+"Stuckey,Joshua",Joshua,Stuckey,JS2907,927212,ZT0717,UBHC-Institute,LAB TECHN,1,Teamsters 97,js2907@rutgers.edu
+"Suarez Primelles,Jennifer Maria",Jennifer,Suarez Primelles,JMS1258,1147684,ZT9012,UBHC-Mom2Mom,SECRETARY II,1,Teamsters 97,jennifer.suarezprimelles@rutgers.edu
+"Sweet,Susan Theresa",Susan,Sweet,SWEETST,673179,ZG0036,UCHC-Midstate Correction Phys,SECRETARY III,1,Teamsters 97,sweetst@ubhc.rutgers.edu
+"Taylor,Lache Nannette",Lache Nannette,Taylor,LT636,1171871,ZG0038,UCHC-Edna Mahan Corr-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,lache.n.taylor@rutgers.edu
+"Taylor,Lisa",Lisa,Taylor,TAYLORLI,673663,ZG0004,UCHC-Garden St Youth Medical,UCHC DATA CONTROL CLERK I,1,CWA 1040,taylorli@rutgers.edu
+"Thamer,Hana Camille",Hana,Thamer,,,ZT0717,UBHC-Institute,LAB TECHN,1,Teamsters 97,
+"Thomas,Anthony",Anthony,Thomas,THOMASA8,673975,ZG0029,UCHC-Administration,PATIENT REPRESENTATIVE,1,HPAE 5094,thomasa8@rutgers.edu
+"Thomas,Jovan",Jovan,Thomas,THOMASJ7,674030,ZT0705,UBHC-Acute Psych Services,SECRETARY II,1,Teamsters 97,jovan.thomas@rutgers.edu
+"Thomas,Lori",Lori,Thomas,LT484,891643,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN II,1,Teamsters 97,lt484@rutgers.edu
+"Thomas,Maisha Khalifa",Maisha,Thomas,MKT84,1119099,ZG0038,UCHC-Edna Mahan Corr-Ancillary,REGIONAL OPERATIONS MGR - UCHC,1,MPSC - Legacy UMD,maisha.thomas@rutgers.edu
+"Thurston,Brittany Lynn",Brittany,Thurston,BLT67,1128732,ZG0012,UCHC-Bayside St Prison Med,SECRETARY III,1,Teamsters 97,blt67@rutgers.edu
+"Tittle,Liz",Liz,Tittle,LT570,1047323,ZT0973,UBHC-Supported Housing,SECRETARY I,1,Teamsters 97,lizandra.tittle@rutgers.edu
+"Torino,Ashley Louise",Ashley,Torino,ALF140,580480,ZT0600,UBHC-Administration,UTILIZATION MGMT COORD,1,HPAE 5094,alf140@rutgers.edu
+"Torres,Jacinta",Jacinta,Torres,TORRESJ1,674601,ZU0705,UBHC-Emergency Screen Newark,SECRETARY I,1,Teamsters 97,torresj1@ubhc.rutgers.edu
+"Torres,Jose A.",Jose,Torres,TORRESJ9,674606,ZG0033,UCHC-East Jersey St Prisn Phys,REGIONAL SCHEDULER,1,Teamsters 97,torresj9@ubhc.rutgers.edu
+"Tscherne,James A",James,Tscherne,JAT281,707452,ZG0001,UCHC,MGR CLINICAL SERVICES,1,MPSC - Legacy UMD,james.tscherne@rutgers.edu
+"Tuano,Maricris Hilario",Maricris,Tuano,MHT48,880805,ZT0703,UBHC - Access Center,SR RECEPT PATIENT SCHED,1,Teamsters 97,mht48@rutgers.edu
+"Tucker,Michele Renee",Michele,Tucker,TUCKERMR,675016,ZT0961,UBHC-Outpatient Services,SECRETARY II,1,Teamsters 97,tuckermr@rutgers.edu
+"Tykwinski,Bob R",Bob,Tykwinski,JRT151,717481,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,jrt151@rutgers.edu
+"Valerio,Yudelka",Yudelka,Valerio,VALERIYU,675522,ZT0940,UBHC-OP Monmouth Junction,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,valeriyu@rutgers.edu
+"Vallejos,Lin",Lin,Vallejos,LAV126,855631,ZG0046,UCHC-Adult Treatmt Ctr-Nursing,UCHC TECHNICIAN I PD,0.475,Health Care Prof Per Diem,lav126@rutgers.edu
+"Vanemburgh,Jennifer Storicks",Jennifer,Vanemburgh,STORICJD,672604,ZG0029,UCHC-Administration,STAFF ASST,1,HPAE 5094,jenn.vane@rutgers.edu
+"Vasquez,Flor",Flor,Vasquez,VASQUEFL,675787,ZG0032,UCHC-Garden St Youth Phys,SECRETARY III,1,Teamsters 97,vasquefl@ubhc.rutgers.edu
+"Vasquez,Jennifer",Jennifer,Vasquez,JV723,1029912,ZT0956,UBHC-Emergency Screen PsychSrv,SECRETARY II,1,Teamsters 97,jennifer.vasquez7@rutgers.edu
+"Vatavuk,Anita G",Anita,Vatavuk,AGV28,795647,ZU0705,UBHC-Emergency Screen Newark,SECRETARY I,1,Teamsters 97,agv28@rutgers.edu
+"Vaughn,Tiffani",Tiffani,Vaughn,TAV47,1069720,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN I,1,Teamsters 97,tiffani.vaughn@rutgers.edu
+"Velez,Angela",Angela,Velez,AV715,904083,ZT0611,UBHC-Finance,FINANCIAL ASSISTANCE ADVISOR,1,Teamsters 97,av715@rutgers.edu
+"Venus,Earth M",Earth,Venus,EMV86,1036876,ZT0705,UBHC-Acute Psych Services,SECRETARY II,1,Teamsters 97,earth.venus@rutgers.edu
+"Verdi,Suzanne",Suzanne,Verdi,VERDISU,676037,ZT0713,UBHC-Acute Children,ADMIN ASST,1,Teamsters 97,verdisu@rutgers.edu
+"Verni,Ken",Ken,Verni,VERNIKE,199104,ZT2327,UBHC-Institute CSOC,TRAINING&CONSULTATION SPEC,0.7,HPAE 5094,vernike@rutgers.edu
+"Villareal,Jerome M",Jerome,Villareal,JMV218,941625,ZG0035,UCHC-Northern St Prison Phys,UCHC TECHNICIAN I,1,Teamsters 97,jmv218@rutgers.edu
+"Wang,Jin",Jin,Wang,WANG34,676809,ZT0607,UBHC-Information Services,IST ANALYST I,1,CWA 1031,wang34@ubhc.rutgers.edu
+"Washington,Jamila K",Jamila,Washington,JKW105,1072028,ZG0042,UCHC-South Woods Psn-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,jamila.washington@rutgers.edu
+"Waynor,Patricia Ann",Patricia,Waynor,PAM195,192612,ZT0712,UBHC-Healh IM Pisc,MEDICAL RECORDS TECH,1,Teamsters 97,patricia.waynor@rutgers.edu
+"Webb,Sonia",Sonia,Webb,SW1149,1024629,ZT0726,UBHC - HIM - ACCR & Standards,PRIN MEDICAL RECORDS CLERK,1,Teamsters 97,sonia.webb@rutgers.edu
+"Wenger,PJ Jean",PJ,Wenger,PJW101,897308,ZT2327,UBHC-Institute CSOC,SR TRAINING & CONSULT SPEC,1,HPAE 5094,pj.wenger@rutgers.edu
+"Wenham,Sharon E",Sharon,Wenham,SEW158,968330,ZG0033,UCHC-East Jersey St Prisn Phys,UCHC TECHNICIAN I,1,Teamsters 97,sew158@rutgers.edu
+"Westerman,Annie",Annie,Westerman,AW937,1023230,ZT0600,UBHC-Administration,EXEC ASST,1,MPSC - Legacy UMD,annie.westerman@rutgers.edu
+"White,Gaynor Magdalene",Gaynor,White,WHITEG1,677601,ZG0035,UCHC-Northern St Prison Phys,REGIONAL SCHEDULER,1,Teamsters 97,whiteg1@rutgers.edu
+"White,Renee Y",Renee,White,RYW7,897431,ZG0030,UCHC-Adult Treatment Ctr Phys,UCHC TECHNICIAN I,1,Teamsters 97,ryw7@rutgers.edu
+"White,Rhoda Cherry",Rhoda,White,RCW107,1129089,ZT0938,UBHC-PH Adult Monmouth Junct,SR CLERK DRIVER,1,Teamsters 97,rhoda.white@rutgers.edu
+"Whiting,Mary",Mary,Whiting,MW873,858093,ZG0035,UCHC-Northern St Prison Phys,SECRETARY III,1,Teamsters 97,mw873@rutgers.edu
+"Williams,Eboni R",Eboni,Williams,EW281,711198,ZU0202,UBHC-Adult Res Newark,OFFICE MGR,0.8,CWA 1031,ew281@rutgers.edu
+"Williams,Lorraine L",Lorraine,Williams,WILLIALO,677969,ZT0600,UBHC-Administration,DIR ADMIN STAFF & FAC AFFAIRS,1,Executives and Directors,williams.lorraine@rutgers.edu
+"Wilson,Kimberly Ann",Kimberly,Wilson,WILSONKA,678119,ZT1671,UBHC-Quality Improvement,SUPVG PROG ASST II,1,CWA 1031,wilsonka@rutgers.edu
+"Wilson-Fauver,Sandra",Sandra,Wilson-Fauver,WILSONS4,678154,ZG0042,UCHC-South Woods Psn-Ancillary,UCHC TECHNICIAN II,1,Teamsters 97,wilsons4@rutgers.edu
+"Winston,Sherise Jonell",Sherise,Winston,POLLARSJ,663707,ZU0922,UBHC-OP Newark,SECRETARY I,1,Teamsters 97,sherise.pollard@rutgers.edu
+"Wiseman,Beresford William",Beresford,Wiseman,WISEMABW,678225,ZG0030,UCHC-Adult Treatment Ctr Phys,UCHC TECHNICIAN II,1,Teamsters 97,wisemabw@rutgers.edu
+"Witcher,Antoinette De Shields-Witcher Juanita",Antoinette De Shields-Witcher,Witcher,AJD325,905001,ZG0042,UCHC-South Woods Psn-Ancillary,MEDICAL RECORDS TECH,1,Teamsters 97,ajd325@rutgers.edu
+"Woodward,Janice L",Janice,Woodward,WOODWAJL,678465,ZG0042,UCHC-South Woods Psn-Ancillary,REGIONAL SCHEDULER,1,Teamsters 97,woodwajl@rutgers.edu
+"Yuhas,Laura M",Laura,Yuhas,YUHASLM,679192,ZT0712,UBHC-Healh IM Pisc,MGR CLINICAL RECORDS,1,MPSC - Legacy UMD,yuhaslm@ubhc.rutgers.edu
+"Zabler,Joshua Andrew",Joshua,Zabler,JAZ110,868170,ZT0988,UBHC-Military Services,MARKETING&COMMUNICATIONS COOR,1,HPAE 5094,joshua.zabler@rutgers.edu
+"Zhou,Shan",Shan,Zhou,ZHOUSH,679665,ZT0716,UBHC-Information Services,PROGRAMMER ANAL I,0.5333,HPAE 5094,shannon.zhou@rutgers.edu
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
